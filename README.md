@@ -33,6 +33,7 @@ GOST R 34.11-94  пароль - MARINA
 #### Ответ
 
 Пароль в сообщении В ЛК нетологии
-![файл](https://github.com/ddponomarev/oib8/blob/main/img/container)
+
+[файл](https://github.com/ddponomarev/oib8/blob/main/img/container)
 
 ![Рисунок 2.](https://github.com/ddponomarev/oib8/blob/main/img/s2.png)
